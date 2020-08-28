@@ -1,0 +1,9 @@
+C:\Users\Hp\Desktop\RayHospital\RayHospital.Resources\bin\Debug\netcoreapp2.1\RayHospital.Resources.deps.json
+C:\Users\Hp\Desktop\RayHospital\RayHospital.Resources\bin\Debug\netcoreapp2.1\RayHospital.Resources.dll
+C:\Users\Hp\Desktop\RayHospital\RayHospital.Resources\bin\Debug\netcoreapp2.1\RayHospital.Resources.pdb
+C:\Users\Hp\Desktop\RayHospital\RayHospital.Resources\obj\Debug\netcoreapp2.1\RayHospital.Resources.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\RayHospital\RayHospital.Resources\obj\Debug\netcoreapp2.1\RayHospital.Resources.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\RayHospital\RayHospital.Resources\obj\Debug\netcoreapp2.1\RayHospital.Resources.AssemblyInfo.cs
+C:\Users\Hp\Desktop\RayHospital\RayHospital.Resources\obj\Debug\netcoreapp2.1\RayHospital.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\RayHospital\RayHospital.Resources\obj\Debug\netcoreapp2.1\RayHospital.Resources.dll
+C:\Users\Hp\Desktop\RayHospital\RayHospital.Resources\obj\Debug\netcoreapp2.1\RayHospital.Resources.pdb
